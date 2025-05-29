@@ -1,0 +1,20 @@
+[{
+  "nombre": " williams",
+  "apellido": " geovany",
+  "email": "william@gamil.com",
+  "password": "7777",
+  "rol": "admin"
+},
+  {
+    "nombre": " daniel",
+    "apellido": " lopez",
+    "email": "daniel@gamil.com",
+    "password": "12345"
+  },
+  {
+    "nombre": " irving",
+    "apellido": " javier",
+    "email": "javier@gamil.com",
+    "password": "54321"
+  }
+]
